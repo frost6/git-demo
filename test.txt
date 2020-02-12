@@ -1,2 +1,4 @@
 Hello my friend
 You are here
+Now you are here
+And now here
